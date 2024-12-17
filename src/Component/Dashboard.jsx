@@ -15,6 +15,7 @@ function Dashboard() {
   const[data,setData] = useState(jsonData.slice(0,10));
   const containerRef = useRef(null);
   const[wishlistItems,setWishlistItems] = useState([]);
+
   
 
   const customIcon = new Icon({
@@ -50,6 +51,8 @@ function Dashboard() {
     if(wishlistItems.indexOf(a)<0){
       wishlistItems.push(a);
       
+      let icon = document.getElementById(a);
+      icon.style.backgroundColor="red";
       localStorage.setItem("Fav-items",JSON.stringify(wishlistItems))
    
       
@@ -57,14 +60,20 @@ function Dashboard() {
     } else{
       let num = wishlistItems.indexOf(a)
       wishlistItems.splice(num,1) 
+      
+       let icon = document.getElementById(a);
+       icon.style.backgroundColor="white";
        localStorage.setItem("Fav-items",JSON.stringify(wishlistItems))
       
 
     }
     console.log(wishlistItems,"sparsh45")
       localStorage.setItem("Fav-items",JSON.stringify(wishlistItems))
+     
            
     }
+
+   
 
     
 
@@ -155,8 +164,8 @@ function Dashboard() {
                       alt={flat.popUp.name}
                     />
                     <br />
-                    <img style={{height:"30px", width:"25px"}} src={"https://www.svgrepo.com/show/447850/wishlist.svg"} 
-                    onClick={()=>addToWishlist(flat.popUp.id)} ></img>
+                    <img id={flat.popUp.id} style={{height:"30px", width:"25px"}} src={"https://www.svgrepo.com/show/447850/wishlist.svg"} 
+                    onClick={()=>addToWishlist(flat.popUp.id)}></img>
                       <br/>
                     <h4>
                       {flat.popUp.name}, {flat.popUp.price}

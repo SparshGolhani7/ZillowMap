@@ -1,0 +1,1043 @@
+[
+    {
+        "geocode":[17.39,78.48],
+        "popUp":{
+            "id": 1,
+            "name": "3bhk flat",
+            "price": "$1,200/month",
+            "description": "A beautiful apartment in the HiTec City.",
+            "image": "https://imagecdn.99acres.com/media1/26550/16/531016899M-1731616141563.jpg"
+          }
+    },
+
+    {
+        "geocode":[17.37,78.485],
+        "popUp":{
+            "id": 2,
+            "name": "1bhk",
+            "price": "$500/month",
+            "description": "A small and safe society in the heart of HiTec City.",
+            "image": "https://imagecdn.99acres.com/media1/25206/19/504139331M-1731942841114.jpg"
+          }
+    },
+    {
+        "geocode":[17.38,78.49],
+        "popUp":{
+            "id": 3,
+            "name": "1rk",
+            "price": "$400/month",
+            "description": "A beautiful apartment in the heart of New York City.",
+            "image": "https://images.nobroker.in/images/8a9f848393900d890193905188e5201d/8a9f848393900d890193905188e5201d_67437_207794_medium.jpg"
+          }
+    },
+    
+    
+    
+        {
+            "geocode": [17.40, 78.48],
+            "popUp": {
+                "id": 4,
+                "name": "2bhk flat",
+                "price": "$900/month",
+                "description": "A spacious 2BHK in a prime location near Hi-Tec City.",
+                "image": "https://images.nobroker.in/images/8a9fb8827d84846e017d848b079a1ff2/8a9fb8827d84846e017d848b079a1ff2_24006_85581_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.39, 78.47],
+            "popUp": {
+                "id": 5,
+                "name": "3bhk villa",
+                "price": "$2,000/month",
+                "description": "Luxury villa with modern amenities.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_66858_41693_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.38, 78.486],
+            "popUp": {
+                "id": 6,
+                "name": "Studio Apartment",
+                "price": "$600/month",
+                "description": "Compact and well-furnished studio apartment.",
+                "image": "https://images.nobroker.in/images/8a9fb6827d8efc0c017d8f08fbe02852/8a9fb6827d8efc0c017d8f08fbe02852_82246_28632_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.375, 78.49],
+            "popUp": {
+                "id": 7,
+                "name": "1bhk",
+                "price": "$550/month",
+                "description": "Affordable 1BHK in a gated society.",
+                "image": "https://images.nobroker.in/images/8a9fb9827d8efc0c017d8f08fffa0846/8a9fb9827d8efc0c017d8f08fffa0846_61843_32851_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.385, 78.485],
+            "popUp": {
+                "id": 8,
+                "name": "3bhk flat",
+                "price": "$1,300/month",
+                "description": "Premium 3BHK with a city view.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c1/8a9fb9887d73a43f017d73a69f3c06c1_75498_63921_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.391, 78.481],
+            "popUp": {
+                "id": 9,
+                "name": "2bhk flat",
+                "price": "$800/month",
+                "description": "2BHK with proximity to IT hubs.",
+                "image": "https://images.nobroker.in/images/8a9f86827d8a5d0c017d8f0b866f03d7/8a9f86827d8a5d0c017d8f0b866f03d7_94719_74445_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.393, 78.49],
+            "popUp": {
+                "id": 10,
+                "name": "1rk",
+                "price": "$450/month",
+                "description": "Simple and cozy 1RK in Hi-Tec City.",
+                "image": "https://images.nobroker.in/images/8a9fb8827d84846e017d848b079a1ff2/8a9fb8827d84846e017d848b079a1ff2_25073_92496_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.387, 78.487],
+            "popUp": {
+                "id": 11,
+                "name": "2bhk flat",
+                "price": "$950/month",
+                "description": "Newly built 2BHK apartment.",
+                "image": "https://images.nobroker.in/images/8a9fb9827d8efc0c017d8f08fffa0846/8a9fb9827d8efc0c017d8f08fffa0846_45608_24682_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.389, 78.488],
+            "popUp": {
+                "id": 12,
+                "name": "1bhk",
+                "price": "$520/month",
+                "description": "Affordable and convenient 1BHK.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.37, 78.484],
+            "popUp": {
+                "id": 13,
+                "name": "2bhk flat",
+                "price": "$850/month",
+                "description": "Well-maintained apartment near tech parks.",
+                "image": "https://images.nobroker.in/images/8a9fb6827d8efc0c017d8f08fbe02852/8a9fb6827d8efc0c017d8f08fbe02852_95389_10489_medium.jpg"
+            }
+        },
+
+    {
+        "geocode": [18.550, 79.450],
+        "popUp": {
+            "id": 14,
+            "name": "1BHK Flat",
+            "price": "$500/month",
+            "description": "Cozy 1BHK located in a quiet neighborhood.",
+            "image": "https://images.nobroker.in/images/8a9fb8827d84846e017d848b079a1ff2/8a9fb8827d84846e017d848b079a1ff2_12345_67890_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.321, 79.451],
+        "popUp": {
+            "id": 15,
+            "name": "2BHK Apartment",
+            "price": "$950/month",
+            "description": "Spacious 2BHK close to shopping centers.",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503804866.jpg?k=d27b2814858e28610b3bec21d33cd121dad0d96cd6aaa59532414029e5ee70af&o=&hp=1"
+        }
+    },
+    {
+        "geocode": [18.32, 79.45],
+        "popUp": {
+            "id": 16,
+            "name": "3BHK Villa",
+            "price": "$2,500/month",
+            "description": "Luxury villa with private parking.",
+            "image": "https://images.nobroker.in/images/8a9fb6827d8efc0c017d8f08fbe02852/8a9fb6827d8efc0c017d8f08fbe02852_12345_67890_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.4553, 79.354],
+        "popUp": {
+            "id": 17,
+            "name": "Studio Apartment",
+            "price": "$700/month",
+            "description": "Well-furnished studio for individuals.",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/596997459.jpg?k=480d8ccd72dbae3d5c8f5d33352dfcc3e1228fe1cb58b0bc64b855c3aba56112&o=&hp=1"
+        }
+    },
+    {
+        "geocode": [18.455, 79.354],
+        "popUp": {
+            "id": 18,
+            "name": "2BHK Flat",
+            "price": "$800/month",
+            "description": "Modern 2BHK with all amenities.",
+            "image": "https://is1-2.housingcdn.com/01c16c28/cdf832853ffa5296a5de1df22048a811/v0/fs/2_bhk_apartment-for-sale-nizampet-Hyderabad-hall.jpg"
+    }
+},
+    {
+        "geocode": [18.505, 79.355],
+        "popUp": {
+            "id": 19,
+            "name": "1RK",
+            "price": "$400/month",
+            "description": "Compact 1RK ideal for students.",
+            "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c1/8a9fb9887d73a43f017d73a69f3c06c1_12345_67890_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.56, 79.45],
+        "popUp": {
+            "id": 20,
+            "name": "3BHK Flat",
+            "price": "$1,500/month",
+            "description": "Premium 3BHK near business district.",
+            "image": "https://images.nobroker.in/images/8a9fb6827d8efc0c017d8f08fbe02852/8a9fb6827d8efc0c017d8f08fbe02852_65432_98765_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.5, 79.47],
+        "popUp": {
+            "id": 21,
+            "name": "2BHK Apartment",
+            "price": "$920/month",
+            "description": "Newly built 2BHK apartment with parking.",
+            "image": "https://images.nobroker.in/images/8a9fb9827d8efc0c017d8f08fffa0846/8a9fb9827d8efc0c017d8f08fffa0846_65432_98765_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.34558, 79.361],
+        "popUp": {
+            "id": 22,
+            "name": "1BHK Apartment",
+            "price": "$530/month",
+            "description": "Affordable 1BHK near parks.",
+            "image": "https://is1-3.housingcdn.com/01c16c28/9a00517439037e7f7ca622aa6cfce19b/v0/fs/2_bhk_apartment-for-sale-hyderguda-Hyderabad-hall.jpg"
+        }
+    },
+    {
+        "geocode": [18.3559, 79.359],
+        "popUp": {
+            "id": 23,
+            "name": "2BHK Flat",
+            "price": "$870/month",
+            "description": "Spacious 2BHK in a gated community.",
+            "image": "https://images.nobroker.in/images/8a9fb6827d8efc0c017d8f08fbe02852/8a9fb6827d8efc0c017d8f08fbe02852_76543_34567_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.34, 79.360],
+        "popUp": {
+            "id": 24,
+            "name": "Studio Apartment",
+            "price": "$610/month",
+            "description": "Modern studio for working professionals.",
+            "image": "https://images.nobroker.in/images/8a9fb9827d8efc0c017d8f08fffa0846/8a9fb9827d8efc0c017d8f08fffa0846_76543_34567_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.561, 79.461],
+        "popUp": {
+            "id": 25,
+            "name": "3BHK Villa",
+            "price": "$2,800/month",
+            "description": "Exclusive villa with a swimming pool.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhT6UYCunoNx4aUNEeAQwqa-VxaJML4FZbw&s"
+        }
+    },
+    {
+        "geocode": [18.56, 79.472],
+        "popUp": {
+            "id": 26,
+            "name": "1BHK Flat",
+            "price": "$520/month",
+            "description": "Compact 1BHK perfect for singles.",
+            "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_87654_34567_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.45, 79.463],
+        "popUp": {
+            "id": 27,
+            "name": "2BHK Apartment",
+            "price": "$940/month",
+            "description": "2BHK apartment with a scenic view.",
+            "image": "https://images.nobroker.in/images/8a9fb6827d8efc0c017d8f08fbe02852/8a9fb6827d8efc0c017d8f08fbe02852_98765_43210_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.564, 79.8],
+        "popUp": {
+            "id": 28,
+            "name": "3BHK Villa",
+            "price": "$2,600/month",
+            "description": "Luxury villa with a private garden.",
+            "image": "https://images.nobroker.in/images/8a9f86827d8a5d0c017d8f0b866f03d7/8a9f86827d8a5d0c017d8f0b866f03d7_56789_12345_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.565, 79.475],
+        "popUp": {
+            "id": 29,
+            "name": "Studio Apartment",
+            "price": "$650/month",
+            "description": "Well-maintained studio in the city center.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZ5M6EF3FnQikVG04ny-wPZtAicALqedHsg&s"
+        }
+    },
+    {
+        "geocode": [18.546, 79.466],
+        "popUp": {
+            "id": 30,
+            "name": "1RK",
+            "price": "$420/month",
+            "description": "Affordable 1RK for students.",
+            "image": "https://images.nobroker.in/images/8a9fb6827d8efc0c017d8f08fbe02852/8a9fb6827d8efc0c017d8f08fbe02852_67890_12345_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.567, 79.467],
+        "popUp": {
+            "id": 31,
+            "name": "3BHK Flat",
+            "price": "$1,450/month",
+            "description": "3BHK flat with modern interiors.",
+            "image": "https://images.nobroker.in/images/8a9fb9827d8efc0c017d8f08fffa0846/8a9fb9827d8efc0c017d8f08fffa0846_98765_43210_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.57, 79.468],
+        "popUp": {
+            "id": 32,
+            "name": "2BHK Apartment",
+            "price": "$890/month",
+            "description": "Modern 2BHK with great connectivity.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS07Cyd2VLW90wtNmZ4cKVmt3VnyKimaeR0lw&s"
+        }
+    },
+
+    
+        {
+            "geocode": [18.1040, 78.8550],
+            "popUp": {
+                "id": 33,
+                "name": "1BHK Flat",
+                "price": "$500/month",
+                "description": "Affordable 1BHK with great amenities.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_87654_34567_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1150, 78.8600],
+            "popUp": {
+                "id": 34,
+                "name": "2BHK Apartment",
+                "price": "$800/month",
+                "description": "Spacious 2BHK with excellent facilities.",
+                "image": "https://images.nobroker.in/images/8a9fb9827d8efc0c017d8f08fffa0846/8a9fb9827d8efc0c017d8f08fffa0846_76543_34567_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1080, 78.8535],
+            "popUp": {
+                "id": 35,
+                "name": "Studio Apartment",
+                "price": "$600/month",
+                "description": "Well-furnished studio in a quiet area.",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhT6UYCunoNx4aUNEeAQwqa-VxaJML4FZbw&s"
+            }
+        },
+        {
+            "geocode": [18.1115, 78.8585],
+            "popUp": {
+                "id": 36,
+                "name": "3BHK Flat",
+                "price": "$1,200/month",
+                "description": "Premium 3BHK with a city view.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_75498_63921_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1170, 78.8500],
+            "popUp": {
+                "id": 37,
+                "name": "2BHK Flat",
+                "price": "$900/month",
+                "description": "Spacious 2BHK near shopping centers.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1055, 78.8565],
+            "popUp": {
+                "id": 38,
+                "name": "1RK",
+                "price": "$450/month",
+                "description": "Cozy 1RK with great connectivity.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_12345_67890_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1065, 78.8545],
+            "popUp": {
+                "id": 39,
+                "name": "3BHK Villa",
+                "price": "$2,000/month",
+                "description": "Luxurious villa with private parking.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_66858_41693_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1140, 78.8610],
+            "popUp": {
+                "id": 40,
+                "name": "2BHK Apartment",
+                "price": "$950/month",
+                "description": "Well-maintained 2BHK near the city center.",
+                "image": "https://images.nobroker.in/images/8a9fb9827d8efc0c017d8f08fffa0846/8a9fb9827d8efc0c017d8f08fffa0846_98765_43210_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1190, 78.8625],
+            "popUp": {
+                "id": 41,
+                "name": "Studio Apartment",
+                "price": "$650/month",
+                "description": "Compact and well-designed studio apartment.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_87654_34567_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1120, 78.8570],
+            "popUp": {
+                "id": 42,
+                "name": "1BHK Flat",
+                "price": "$500/month",
+                "description": "Affordable 1BHK with modern amenities.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1205, 78.8590],
+            "popUp": {
+                "id": 43,
+                "name": "2BHK Apartment",
+                "price": "$850/month",
+                "description": "Affordable and spacious 2BHK.",
+                "image": "https://images.nobroker.in/images/8a9fd5828691af4201869245dc6c7b5d/8a9fd5828691af4201869245dc6c7b5d_81885_676477_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1215, 78.8605],
+            "popUp": {
+                "id": 44,
+                "name": "1RK",
+                "price": "$450/month",
+                "description": "Affordable 1RK in a peaceful neighborhood.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_98765_43210_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1220, 78.8615],
+            "popUp": {
+                "id": 45,
+                "name": "3BHK Villa",
+                "price": "$2,200/month",
+                "description": "Spacious 3BHK villa with a garden.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1230, 78.8635],
+            "popUp": {
+                "id": 46,
+                "name": "2BHK Apartment",
+                "price": "$1,000/month",
+                "description": "Modern 2BHK with a scenic view.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_87654_34567_medium.jpg"
+            }
+        },
+        {
+            "geocode": [18.1250, 78.8645],
+            "popUp": {
+                "id": 47,
+                "name": "Studio Apartment",
+                "price": "$600/month",
+                "description": "Studio apartment in a calm area.",
+                "image": "https://imagecdn.99acres.com/media1/26775/2/535502067M-1733312945081.jpg"
+            }
+        },
+        {
+            "geocode": [18.1260, 78.8655],
+            "popUp": {
+                "id": 48,
+                "name": "3BHK Flat",
+                "price": "$1,300/month",
+                "description": "Modern 3BHK with a city skyline view.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_98765_43210_medium.jpg"
+            }
+        },
+
+            {
+                "geocode": [18.102, 78.856],
+                "popUp": {
+                    "id": 49,
+                    "name": "2BHK Flat",
+                    "price": "$920/month",
+                    "description": "Spacious 2BHK near public transport.",
+                    "image": "https://images.nobroker.in/images/8a9f848393900d890193905188e5201d/8a9f848393900d890193905188e5201d_67437_207794_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.106, 78.858],
+                "popUp": {
+                    "id": 50,
+                    "name": "3BHK Villa",
+                    "price": "$2,700/month",
+                    "description": "Luxury villa with private garden.",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhT6UYCunoNx4aUNEeAQwqa-VxaJML4FZbw&s"
+                }
+            },
+            {
+                "geocode": [18.104, 78.853],
+                "popUp": {
+                    "id": 51,
+                    "name": "Studio Apartment",
+                    "price": "$590/month",
+                    "description": "Compact and modern studio.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.107, 78.857],
+                "popUp": {
+                    "id": 52,
+                    "name": "2BHK Apartment",
+                    "price": "$890/month",
+                    "description": "Spacious 2BHK near tech parks.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.108, 78.859],
+                "popUp": {
+                    "id": 53,
+                    "name": "1BHK Flat",
+                    "price": "$550/month",
+                    "description": "Affordable 1BHK in a peaceful neighborhood.",
+                    "image": "https://images.nobroker.in/images/8a9f8ec38f1f39ff018f1fab948a4184/8a9f8ec38f1f39ff018f1fab948a4184_33692_634210_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.109, 78.860],
+                "popUp": {
+                    "id": 54,
+                    "name": "3BHK Flat",
+                    "price": "$1,400/month",
+                    "description": "3BHK flat with modern amenities.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.103, 78.854],
+                "popUp": {
+                    "id": 55,
+                    "name": "1RK Apartment",
+                    "price": "$450/month",
+                    "description": "Simple 1RK in a quiet area.",
+                    "image": "https://images.nobroker.in/images/8a9f848393900d890193905188e5201d/8a9f848393900d890193905188e5201d_67437_207794_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.110, 78.861],
+                "popUp": {
+                    "id": 56,
+                    "name": "2BHK Apartment",
+                    "price": "$860/month",
+                    "description": "Affordable 2BHK near shopping centers.",
+                    "image": "https://images.nobroker.in/images/8a9f848393900d890193905188e5201d/8a9f848393900d890193905188e5201d_67437_207794_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.102, 78.858],
+                "popUp": {
+                    "id": 57,
+                    "name": "Studio Apartment",
+                    "price": "$580/month",
+                    "description": "Well-furnished studio apartment.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.111, 78.862],
+                "popUp": {
+                    "id": 58,
+                    "name": "1BHK Villa",
+                    "price": "$1,200/month",
+                    "description": "Private villa with a small garden.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.104, 78.855],
+                "popUp": {
+                    "id": 59,
+                    "name": "3BHK Apartment",
+                    "price": "$1,500/month",
+                    "description": "Spacious 3BHK with a view.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.105, 78.860],
+                "popUp": {
+                    "id": 60,
+                    "name": "2BHK Flat",
+                    "price": "$900/month",
+                    "description": "2BHK in a gated community.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.106, 78.863],
+                "popUp": {
+                    "id": 61,
+                    "name": "Studio Apartment",
+                    "price": "$650/month",
+                    "description": "Small studio in a quiet neighborhood.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.107, 78.864],
+                "popUp": {
+                    "id": 62,
+                    "name": "1RK Apartment",
+                    "price": "$420/month",
+                    "description": "Compact 1RK in the city center.",
+                    "image": "https://images.nobroker.in/images/8a9f9e438eb382cf018eb3b859b11838/8a9f9e438eb382cf018eb3b859b11838_38635_639695_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.108, 78.865],
+                "popUp": {
+                    "id": 63,
+                    "name": "2BHK Flat",
+                    "price": "$880/month",
+                    "description": "Modern 2BHK near transportation.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.109, 78.866],
+                "popUp": {
+                    "id": 64,
+                    "name": "1BHK Flat",
+                    "price": "$560/month",
+                    "description": "Well-located 1BHK with good amenities.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.103, 78.856],
+                "popUp": {
+                    "id": 65,
+                    "name": "3BHK Apartment",
+                    "price": "$1,600/month",
+                    "description": "Premium 3BHK with modern interiors.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.110, 78.867],
+                "popUp": {
+                    "id": 66,
+                    "name": "Studio Apartment",
+                    "price": "$600/month",
+                    "description": "Cozy and well-equipped studio.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.111, 78.868],
+                "popUp": {
+                    "id": 67,
+                    "name": "2BHK Flat",
+                    "price": "$850/month",
+                    "description": "2BHK near office hubs.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.112, 78.869],
+                "popUp": {
+                    "id": 68,
+                    "name": "1BHK Apartment",
+                    "price": "$530/month",
+                    "description": "Great value 1BHK in a central area.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.103, 78.859],
+                "popUp": {
+                    "id": 69,
+                    "name": "3BHK Villa",
+                    "price": "$3,000/month",
+                    "description": "Luxury villa with pool and garden.",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-ZvJI4MYOF8nffVeVjceAs8xuexv1XpB1A&s"
+                }
+            },
+            {
+                "geocode": [18.113, 78.870],
+                "popUp": {
+                    "id": 70,
+                    "name": "2BHK Apartment",
+                    "price": "$930/month",
+                    "description": "2BHK apartment in a secure complex.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.104, 78.860],
+                "popUp": {
+                    "id": 71,
+                    "name": "1RK Apartment",
+                    "price": "$460/month",
+                    "description": "Affordable 1RK near schools and parks.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.114, 78.871],
+                "popUp": {
+                    "id": 72,
+                    "name": "Studio Apartment",
+                    "price": "$670/month",
+                    "description": "Stylish studio in a buzzing area.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.115, 78.872],
+                "popUp": {
+                    "id": 73,
+                    "name": "2BHK Flat",
+                    "price": "$870/month",
+                    "description": "2BHK in a well-established locality.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.116, 78.873],
+                "popUp": {
+                    "id": 74,
+                    "name": "3BHK Apartment",
+                    "price": "$1,400/month",
+                    "description": "3BHK apartment with excellent views.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.117, 78.874],
+                "popUp": {
+                    "id": 75,
+                    "name": "1BHK Flat",
+                    "price": "$520/month",
+                    "description": "Compact 1BHK for a single person.",
+                    "image": "https://images.nobroker.in/images/8a9f8343902570c1019025d7b6b3349c/8a9f8343902570c1019025d7b6b3349c_50089_945118_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.118, 78.875],
+                "popUp": {
+                    "id": 76,
+                    "name": "Studio Apartment",
+                    "price": "$590/month",
+                    "description": "A small studio apartment in a busy area.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.119, 78.876],
+                "popUp": {
+                    "id": 77,
+                    "name": "2BHK Apartment",
+                    "price": "$890/month",
+                    "description": "2BHK apartment with modern interiors.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.120, 78.877],
+                "popUp": {
+                    "id": 78,
+                    "name": "1BHK Villa",
+                    "price": "$1,150/month",
+                    "description": "Private villa with scenic views.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.121, 78.878],
+                "popUp": {
+                    "id": 79,
+                    "name": "Studio Apartment",
+                    "price": "$650/month",
+                    "description": "Compact and affordable studio.",
+                    "image": "https://dyimg2.realestateindia.com/prop_images/3511182/1279197_1-350x350.jpg"
+                }
+            },
+            {
+                "geocode": [18.122, 78.879],
+                "popUp": {
+                    "id": 80,
+                    "name": "2BHK Flat",
+                    "price": "$920/month",
+                    "description": "Nice 2BHK in a prime location.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.123, 78.880],
+                "popUp": {
+                    "id": 81,
+                    "name": "1BHK Apartment",
+                    "price": "$540/month",
+                    "description": "Budget-friendly 1BHK with amenities.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.124, 78.881],
+                "popUp": {
+                    "id": 82,
+                    "name": "3BHK Villa",
+                    "price": "$2,800/month",
+                    "description": "Luxury villa with pool.",
+                    "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_96251_57068_medium.jpg"
+                }
+            },
+            {
+                "geocode": [18.125, 78.882],
+                "popUp": {
+                    "id": 83,
+                    "name": "2BHK Apartment",
+                    "price": "$900/month",
+                    "description": "Well-furnished 2BHK for rent.",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCes7oomUMdcvTFnNgZGcsyg7tNzFTSODDg&s"
+                }
+            },
+            {
+                "geocode": [18.126, 78.883],
+                "popUp": {
+                    "id": 84,
+                    "name": "1BHK Apartment",
+                    "price": "$520/month",
+                    "description": "Cozy 1BHK with a great location.",
+                    "image": "https://images.nobroker.in/images/8a9f8ec38f1f39ff018f1fab948a4184/8a9f8ec38f1f39ff018f1fab948a4184_33692_634210_medium.jpg"
+                }
+            },
+        
+       {
+        "geocode": [18.1101, 78.8601],
+        "popUp": {
+            "id": 85,
+            "name": "2BHK Flat",
+            "price": "$900/month",
+            "description": "Cozy 2BHK with proximity to business hubs.",
+            "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_12345_67890_medium.jpg"
+        }
+       },
+    {
+        "geocode": [18.114, 78.859],
+        "popUp": {
+            "id": 86,
+            "name": "Studio Apartment",
+            "price": "$650/month",
+            "description": "Ideal studio apartment for individuals near tech parks.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZ5M6EF3FnQikVG04ny-wPZtAicALqedHsg&s"
+        }
+    },
+    {
+        "geocode": [18.107, 78.865],
+        "popUp": {
+            "id": 87,
+            "name": "3BHK Villa",
+            "price": "$2,500/month",
+            "description": "Luxury villa with modern amenities and a private garden.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhT6UYCunoNx4aUNEeAQwqa-VxaJML4FZbw&s"
+        }
+    },
+    {
+        "geocode": [18.123, 78.870],
+        "popUp": {
+            "id": 88,
+            "name": "1RK",
+            "price": "$400/month",
+            "description": "Cozy 1RK, ideal for students and working professionals.",
+            "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c1/8a9fb9887d73a43f017d73a69f3c06c1_12345_67890_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.121, 78.875],
+        "popUp": {
+            "id": 89,
+            "name": "1BHK Apartment",
+            "price": "$550/month",
+            "description": "Compact 1BHK in a well-connected area.",
+            "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Aug/03/Photo_h180_w240/74163551_2_PropertyImage172-66019446811364_180_240.jpg"
+        }
+    },
+    {
+        "geocode": [18.1145, 78.868],
+        "popUp": {
+            "id": 90,
+            "name": "2BHK Apartment",
+            "price": "$850/month",
+            "description": "Spacious 2BHK in a gated community with a park view.",
+            "image": "https://images.nobroker.in/images/8a9fb9827d8efc0c017d8f08fbe02852/8a9fb9827d8efc0c017d8f08fbe02852_34567_89012_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.1087, 78.879],
+        "popUp": {
+            "id": 91,
+            "name": "Studio Apartment",
+            "price": "$620/month",
+            "description": "Well-furnished studio apartment for individuals or couples.",
+            "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_65432_98765_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.127, 78.875],
+        "popUp": {
+            "id": 92,
+            "name": "3BHK Flat",
+            "price": "$1,300/month",
+            "description": "Premium 3BHK with modern interiors and a balcony.",
+            "image": "https://images.nobroker.in/images/8a9fb9827d8efc0c017d8f08fffa0846/8a9fb9827d8efc0c017d8f08fffa0846_98765_43210_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.132, 78.880],
+        "popUp": {
+            "id": 93,
+            "name": "2BHK Flat",
+            "price": "$900/month",
+            "description": "Spacious and well-maintained 2BHK with great connectivity.",
+            "image": "https://q-xx.bstatic.com/xdata/images/hotel/max500/600443662.jpg?k=c6a16521c5f098980abb60a46b290b322eae28a0232bb5f2bfc7d267ad33b243&o="
+        }
+    },
+    {
+        "geocode": [18.137, 78.890],
+        "popUp": {
+            "id": 94,
+            "name": "1BHK Apartment",
+            "price": "$570/month",
+            "description": "Affordable and well-maintained 1BHK near tech parks.",
+            "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_12345_67890_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.1405, 78.894],
+        "popUp": {
+            "id": 95,
+            "name": "3BHK Villa",
+            "price": "$2,800/month",
+            "description": "Exclusive villa with a private swimming pool.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhT6UYCunoNx4aUNEeAQwqa-VxaJML4FZbw&s"
+        }
+    },
+    {
+        "geocode": [18.145, 78.902],
+        "popUp": {
+            "id": 96,
+            "name": "2BHK Apartment",
+            "price": "$950/month",
+            "description": "2BHK with great amenities and close to shopping malls.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZc6NtAK_DB-3VZvqu1tlSQT3nN3kRP2A6A&s"
+        }
+    },
+    {
+        "geocode": [18.153, 78.907],
+        "popUp": {
+            "id": 97,
+            "name": "1RK",
+            "price": "$420/month",
+            "description": "Affordable 1RK with all basic amenities.",
+            "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c1/8a9fb9887d73a43f017d73a69f3c06c1_12345_67890_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.155, 78.910],
+        "popUp": {
+            "id": 98,
+            "name": "3BHK Flat",
+            "price": "$1,600/month",
+            "description": "Spacious 3BHK with a city view and all modern facilities.",
+            "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_98765_43210_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.162, 78.914],
+        "popUp": {
+            "id": 99,
+            "name": "Studio Apartment",
+            "price": "$650/month",
+            "description": "Compact studio apartment for working professionals.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaeGIr3ijS7L6j1IVmEiMYyd2lPGugnBW3OA&s"
+        }
+    },
+    {
+        "geocode": [18.167, 78.919],
+        "popUp": {
+            "id": 100,
+            "name": "2BHK Apartment",
+            "price": "$950/month",
+            "description": "2BHK in a well-connected locality with modern features.",
+            "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_34567_89012_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.173, 78.924],
+        "popUp": {
+            "id": 101,
+            "name": "1BHK Flat",
+            "price": "$530/month",
+            "description": "Affordable 1BHK located near parks and schools.",
+            "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_87654_34567_medium.jpg"
+        }
+    },
+    {
+        "geocode": [18.176, 78.928],
+        "popUp": {
+            "id": 102,
+            "name": "3BHK Villa",
+            "price": "$3,000/month",
+            "description": "Luxury villa with private parking and swimming pool.",
+            "image": "https://imagecdn.99acres.com/media1/26697/16/533956781M-1732762081826.webp"
+        }
+    },
+    {
+        "geocode": [18.182, 78.932],
+        "popUp": {
+            "id": 103,
+            "name": "2BHK Flat",
+            "price": "$1,000/month",
+            "description": "2BHK apartment with modern amenities and great views.",
+            "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_65432_98765_medium.jpg"
+        }
+    }
+
+]
+    

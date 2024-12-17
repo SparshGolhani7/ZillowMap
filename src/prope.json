@@ -1,0 +1,116 @@
+[
+    {
+        "geocode":[17.39,78.48],
+        "popUp":{
+            "id": 1,
+            "name": "3bhk flat",
+            "price": 1200,
+            "description": "A beautiful apartment in the HiTec City.",
+            "image": "https://imagecdn.99acres.com/media1/26550/16/531016899M-1731616141563.jpg"
+          }
+    },
+
+    {
+        "geocode":[17.37,78.485],
+        "popUp":{
+            "id": 2,
+            "name": "1bhk",
+            "price": 120,
+            "description": "A small and safe society in the heart of HiTec City.",
+            "image": "https://imagecdn.99acres.com/media1/25206/19/504139331M-1731942841114.jpg"
+          }
+    },
+    {
+        "geocode":[17.38,78.49],
+        "popUp":{
+            "id": 3,
+            "name": "1rk",
+            "price": 199,
+            "description": "A beautiful apartment in the heart of New York City.",
+            "image": "https://images.nobroker.in/images/8a9f848393900d890193905188e5201d/8a9f848393900d890193905188e5201d_67437_207794_medium.jpg"
+          }
+    },
+    
+    
+    
+        {
+            "geocode": [17.40, 78.48],
+            "popUp": {
+                "id": 4,
+                "name": "2bhk flat",
+                "price": 150,
+                "description": "A spacious 2BHK in a prime location near Hi-Tec City.",
+                "image": "https://images.nobroker.in/images/8a9fb8827d84846e017d848b079a1ff2/8a9fb8827d84846e017d848b079a1ff2_24006_85581_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.39, 78.47],
+            "popUp": {
+                "id": 5,
+                "name": "3bhk villa",
+                "price": 730,
+                "description": "Luxury villa with modern amenities.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c0/8a9fb9887d73a43f017d73a69f3c06c0_66858_41693_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.38, 78.486],
+            "popUp": {
+                "id": 6,
+                "name": "Studio Apartment",
+                "price":600,
+                "description": "Compact and well-furnished studio apartment.",
+                "image": "https://images.nobroker.in/images/8a9fb6827d8efc0c017d8f08fbe02852/8a9fb6827d8efc0c017d8f08fbe02852_82246_28632_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.375, 78.49],
+            "popUp": {
+                "id": 7,
+                "name": "1bhk",
+                "price": 550,
+                "description": "Affordable 1BHK in a gated society.",
+                "image": "https://images.nobroker.in/images/8a9fb9827d8efc0c017d8f08fffa0846/8a9fb9827d8efc0c017d8f08fffa0846_61843_32851_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.385, 78.485],
+            "popUp": {
+                "id": 8,
+                "name": "3bhk flat",
+                "price": "$1,300/month",
+                "description": "Premium 3BHK with a city view.",
+                "image": "https://images.nobroker.in/images/8a9fb9887d73a43f017d73a69f3c06c1/8a9fb9887d73a43f017d73a69f3c06c1_75498_63921_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.391, 78.481],
+            "popUp": {
+                "id": 9,
+                "name": "2bhk flat",
+                "price": 800,
+                "description": "2BHK with proximity to IT hubs.",
+                "image": "https://images.nobroker.in/images/8a9f86827d8a5d0c017d8f0b866f03d7/8a9f86827d8a5d0c017d8f0b866f03d7_94719_74445_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.393, 78.49],
+            "popUp": {
+                "id": 10,
+                "name": "1rk",
+                "price": 50,
+                "description": "Simple and cozy 1RK in Hi-Tec City.",
+                "image": "https://images.nobroker.in/images/8a9fb8827d84846e017d848b079a1ff2/8a9fb8827d84846e017d848b079a1ff2_25073_92496_medium.jpg"
+            }
+        },
+        {
+            "geocode": [17.387, 78.487],
+            "popUp": {
+                "id": 11,
+                "name": "2bhk flat",
+                "price": 950,
+                "description": "Newly built 2BHK apartment.",
+                "image": "https://images.nobroker.in/images/8a9fb9827d8efc0c017d8f08fffa0846/8a9fb9827d8efc0c017d8f08fffa0846_45608_24682_medium.jpg"
+            }
+        }
+    ]
